@@ -13,7 +13,7 @@
 * [유명 오픈소스 사례3-게임](6-3.OpenSource_Game.md)
 * [유명 오픈소스 사례4-유틸 프로그램](6-4.OpenSource_Utility.md)
 * [오픈소스 개발방식 두가지](7.OpenSource_Develop_Method.md)
-* [마치며..](8.End.md)
+* [끝맺음](8.End.md)
 
 ## Methods
 
