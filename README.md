@@ -5,4 +5,4 @@
 
 
 
-![cover_img](./assets/0119_img_1.jpg)
+![cover_img](./assets/Opensource.copy.png)
