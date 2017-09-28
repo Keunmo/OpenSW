@@ -1,4 +1,3 @@
-
 **라이선스 종류**
 
 ![image3](./assets/image_2.jpg)
@@ -20,4 +19,5 @@
 2015년 2월 기준의 라이선스 사용 통계
 
 출처 : https://osswatch.jiscinvolve.org/wp/2015/02/05/open-source-software-licensing-trends/
+=======
 
