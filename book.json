@@ -1,9 +1,8 @@
 {
-	"plugins": [ "theme-api" ],
+	"plugins": ["theme-api"],
 	"pluginsConfig": {
 		"theme-api": {
-			"languages": [
-				{
+			"languages": [{
 					"lang": "js",
 					"name": "JavaScript",
 					"default": true
@@ -14,9 +13,9 @@
 				}
 			]
 		}
-	}
-	"title" : "Everything about Opensource"
-	"pdf" : {
-		"paperSize":"a5"
+	},
+	"title": "Everything about Opensource",
+	"pdf": {
+		"paperSize": "a5"
 	}
 }
