@@ -1,6 +1,5 @@
 # Summary
 
-* [표지](README.md)
 * [오픈소스, 무엇인가?](3.Rising_Sun,OpenSource.md)
 * [오픈소스의 이념](OpenSource_Mind.md)
 * [오픈소스 라이선스](OpenSource_License.md)
