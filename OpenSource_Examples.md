@@ -12,7 +12,7 @@
 
 ![](file:////Users/keunmo/Library/Group Containers/UBF8T346G9.Office/msoclip1/01/clip_image004.gif)
 
-* 7-Zip : 7-Zip\(세븐집\)은오픈 소스로 배포되고 있는 압축 소프트웨어이다. 이고르 파블로프가 개발하였다.[윈도우](https://ko.wikipedia.org/wiki/마이크로소프트_윈도우)판으로는 7-Zip의 이름으로, 그 외의플랫폼에서는 p7-zip/EZ 7z\(OS X에서만\)의 이름으로 배포되고 있다. 윈도우 XP 64비트를 지원한 최초의 압축 프로그램이기도 하다.
+* 7-Zip : 7-Zip\(세븐집\)은오픈 소스로 배포되고 있는 압축 소프트웨어이다. 이고르 파블로프가 개발하였다. 윈도판으로는 7-Zip의 이름으로, 그 외의플랫폼에서는 p7-zip/EZ 7z\(OS X에서만\)의 이름으로 배포되고 있다. 윈도우 XP 64비트를 지원한 최초의 압축 프로그램이기도 하다.
 
   ```
       ![](/assets/3.png)![]
