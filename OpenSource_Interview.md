@@ -73,4 +73,3 @@ A :예.
 \[4\]Rust는 모질라 리서치에서 개발한 범용 프로그래밍 언어이다. 모질라의 정책에 따라, 러스트는 전적으로 오픈 소스로 개발되고 있으며, 커뮤니티로부터 피드백을 받고 있다. 모질라 재단이 러스트의 개발을 후원하고 있다.
 
 \[5\]모질라의 차세대 웹 브라우저 파이어폭스 퀀텀. [https://www.mozilla.org/en-US/firefox/quantum/](https://www.mozilla.org/en-US/firefox/quantum/)
-
